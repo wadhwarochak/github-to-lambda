@@ -10,7 +10,7 @@ git status
 -- Add changes in commit
 git add .
 
--- Create commit with message
+-- Create m commit with message
 git commit -m "message for commit"
 
 -- Push changes
