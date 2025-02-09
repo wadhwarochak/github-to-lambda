@@ -1,7 +1,7 @@
 -- Clone GitHub Repo
 git clone https://github.com/growdataskills/github-to-lambda-demo.git
 
--- Create New Branch
+-- Create a New Branch
 git checkout -b test
 
 -- Check files changed
