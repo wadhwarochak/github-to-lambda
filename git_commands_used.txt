@@ -13,5 +13,8 @@ git add .
 -- Create m commit with message
 git commit -m "message for commit"
 
--- Push changes
+-- Push changes :
 git push origin test
+
+
+An error occurred (AccessDeniedException) when calling the UpdateFunctionCode operation: User: arn:aws:sts::124355656416:assumed-role/codebuild-github-cicd-aws-service-role/AWSCodeBuild-a304f11c-a865-4a6a-9c10-aaa63f54d186 is not authorized to perform: lambda:UpdateFunctionCode on resource: arn:aws:lambda:us-east-1:124355656416:function:github-to-lambda-cic because no identity-based policy allows the lambda:UpdateFunctionCode action
