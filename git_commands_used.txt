@@ -11,7 +11,7 @@ git status
 git add .
 
 -- Create m commit with message
-git commit -m "message for commit"
+git commit -m "message for commit "
 
 -- Push changes :
 git push origin test
